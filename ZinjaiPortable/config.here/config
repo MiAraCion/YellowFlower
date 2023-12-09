@@ -1,0 +1,166 @@
+# generado por ZinjaI-w32-20180718
+[Init]
+left_panels=0
+show_welcome=1
+show_beginner_panel=0
+show_minimap_panel=0
+show_tip_on_startup=1
+new_file=2
+version=20180718
+pos_x=-96
+pos_y=43
+size_x=1313
+size_y=920
+maximized=1
+lang_es=0
+zinjai_server_port=46527
+save_project=1
+always_add_extension=0
+autohide_toolbars_fs=0
+autohide_panels_fs=0
+autohide_menus_fs=0
+check_for_updates=0
+prefer_explorer_tree=0
+cppcheck_seen=0
+doxygen_seen=0
+wxfb_seen=0
+show_explorer_tree=0
+graphviz_dot=1
+inherit_num=3
+history_len=10
+proxy=
+language_file=spanish
+max_errors=500
+max_jobs=4
+wrap_mode=0
+singleton=1
+stop_compiling_on_error=1
+autohide_panels=0
+fullpath_on_project_tree=0
+use_cache_for_subcommands=1
+beautify_compiler_errors=1
+colour_theme=custom_color_scheme.zcs
+complements_timestamp=20230825214812
+
+[Debug]
+allow_edition=0
+autohide_panels=1
+autohide_toolbars=1
+use_colours_for_inspections=1
+inspections_can_have_side_effects=0
+raise_main_window=1
+compile_again=1
+always_debug=0
+use_blacklist=1
+macros_file=samples\debug_macros.gdb
+show_do_that=0
+validate_breakpoint_address=1
+show_thread_panel=0
+show_log_panel=0
+inspections_on_right=0
+inspect_on_mouse_over=1
+readnow=0
+catch_throw=1
+auto_solibs=0
+return_focus_on_continue=1
+improve_inspections_by_type=1
+no_debug_heap=1
+inspection_improving_template=std::vector<${T}, std::allocator<${T}> >|>pvector ${EXP}
+inspection_improving_template=std::stack<${T}, std::deque<${T}, std::allocator<${T}> > >|>pstack ${EXP}
+inspection_improving_template=std::deque<${T}, std::allocator<${T}> >|>pdeque ${EXP}
+inspection_improving_template=std::queue<${T}, std::deque<${T}, std::allocator<${T}> > >|>pqueue ${EXP}
+inspection_improving_template=std::priority_queue<${T}, std::vector<${T}, std::allocator<${T}> >, ${C} >|>ppqueue ${EXP}
+inspection_improving_template=std::bitset<${N}>|>pbitset ${EXP}
+inspection_improving_template=std::set<${T}, ${C}, std::allocator<${T}> >|>pset ${EXP} '${T}'
+inspection_improving_template=std::list<${T}, std::allocator<${T}> >|>plist ${EXP} '${T}'
+inspection_improving_template=std::map<${T1}, ${T2}, ${C}, std::allocator<${P}> >|>pmap ${EXP} '${T1}' '${T2}'
+inspection_improving_template=std::list<${T}, std::allocator<${T}> >::iterator|*((${T}*)(${EXP}._M_node+1)) @1
+inspection_improving_template=std::_List_iterator<${T}>|*((${T}*)(${EXP}._M_node+1)) @1
+inspection_improving_template=std::string|(${EXP})._M_dataplus._M_p
+inspection_improving_template=std::basic_string<char, std::char_traits<char>, std::allocator<char> >|(${EXP})._M_dataplus._M_p
+inspection_improving_template=std::${NS}::list<${T}, std::allocator<${T}> >::iterator|*((${T}*)(${EXP}._M_node+1)) @1
+inspection_improving_template=std::${NS}::list<${T}, std::allocator<${T}> >|>plist ${EXP} '${T}'
+
+[Styles]
+forced_dpi=0
+print_size=14
+font_size=16
+font_name=Consolas
+colour_theme=custom_color_scheme.zcs
+
+[Source]
+smartIndent=0
+indentPaste=0
+bracketInsertion=0
+syntaxEnable=1
+foldEnable=1
+indentEnable=1
+whiteSpace=0
+lineNumber=0
+overType=0
+autocompFilters=1
+callTips=1
+autocompTips=1
+toolTips=1
+autotextEnabled=1
+autocloseStuff=0
+autoCompletion=2
+avoidNoNewLineWarning=1
+edgeColumn=60
+alignComments=80
+tabWidth=3
+tabUseSpaces=1
+
+[Running]
+cpp_compiler_options=-Wall -pedantic-errors -O0 -finput-charset=iso-8859-1 -fexec-charset=cp437
+c_compiler_options=-Wall -pedantic-errors -O0 -finput-charset=iso-8859-1 -fexec-charset=cp437
+wait_for_key=1
+always_ask_args=0
+check_includes=1
+
+[Help]
+wxhelp_index=
+autocomp_indexes=AAA_Directivas_de_Preprocesador,AAA_Estandar_C,AAA_Estandar_Cpp,AAA_Estandar_Cpp_11,AAA_Palabras_Reservadas,AAA_Palabras_Reservadas_11,AAA_STL,AAA_STL_11
+min_len_for_completion=3
+show_extra_panels=1
+
+[Files]
+temp_dir=config.here\tmp
+img_viewer=
+xdot_command=
+skin_dir=imgs
+debugger_command=gdb
+toolchain=mingw32-gcc6
+cppcheck_command=
+valgrind_command=
+terminal_command=
+explorer_command=explorer
+c_template=default_c.tpl
+cpp_template=default_14.tpl
+default_template=default_14.tpl
+default_project=<main>
+autocodes_file=config.here\autocodes
+doxygen_command=c:\archivos de programa\doxygen\bin\doxygen.exe
+wxfb_command=
+browser_command=
+project_folder=projects
+last_dir=E:\Ciclo-8-utp\Desarrollo-Videojuegos-1\Plantilla-software-1\P3D_New
+last_project_dir=I:\Programacion\ZinjaI\2019_10 - P3D_Newbies
+last_project_0=E:\Ciclo-8-utp\Desarrollo-Videojuegos-1\Plantilla-software-1\P3D_New\P3D_Newbies.zpr
+last_project_1=D:\Ciclo-8-utp\Desarrollo-Videojuegos-1\Plantilla-software-1\P3D_New\P3D_Newbies.zpr
+last_project_2=C:\Users\LAB-USR-AQ265-A0504\Desktop\Javier Peña\P3D_New\P3D_New\P3D_Newbies.zpr
+last_project_3=E:\Ciclo-8-utp\Desarrollo-Videojuegos-1\Session-1\P3D_New\P3D_Newbies.zpr
+
+[Columns]
+inspections_grid_0=1
+inspections_grid_1=1
+inspections_grid_2=1
+inspections_grid_3=1
+backtrace_grid_0=1
+backtrace_grid_1=1
+backtrace_grid_2=1
+backtrace_grid_3=1
+backtrace_grid_4=1
+
+[CustomTools]
+
